@@ -4,11 +4,13 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=CJqualquer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
   <img 
     alt="GitHub Top Langs" 
     height="200" 
+    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJqualquer&theme=tokyonight&layout=compact&custom_title=MostUsedLanguages&langs_count=9" 
   />
 
